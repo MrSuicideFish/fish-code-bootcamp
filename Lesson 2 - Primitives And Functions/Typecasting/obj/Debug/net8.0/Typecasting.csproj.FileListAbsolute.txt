@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\bin\Debug\net8.0\Typecasting.exe
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\bin\Debug\net8.0\Typecasting.deps.json
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\bin\Debug\net8.0\Typecasting.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\bin\Debug\net8.0\Typecasting.dll
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\bin\Debug\net8.0\Typecasting.pdb
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\Typecasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\Typecasting.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\Typecasting.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\Typecasting.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\Typecasting.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\Typecasting.dll
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\refint\Typecasting.dll
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\Typecasting.pdb
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\Typecasting.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Typecasting\obj\Debug\net8.0\ref\Typecasting.dll

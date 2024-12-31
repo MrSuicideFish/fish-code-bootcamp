@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<CustomerDatabase>
+  <Customers>
+    <Customer>
+      <Name>Mr.Fish</Name>
+      <PhoneNumber>999-999-9999</PhoneNumber>
+      <Address>123 Civic Ln</Address>
+      <EmailAddress>123MrFish@gmail.com</EmailAddress>
+    </Customer>
+    <Customer>
+      <Name>PenPen</Name>
+      <PhoneNumber>888-888-8888</PhoneNumber>
+      <Address>456 Civic Ln</Address>
+      <EmailAddress>123PenPen@Gmail.com</EmailAddress>
+    </Customer>
+    <Customer>
+      <Name>Fifi</Name>
+      <PhoneNumber>777-777-7777</PhoneNumber>
+      <Address>789 Civic Ln</Address>
+      <EmailAddress>123Fifi@Gmail.com</EmailAddress>
+    </Customer>
+  </Customers>
+</CustomerDatabase>

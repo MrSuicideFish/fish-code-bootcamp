@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\bin\Debug\net8.0\UserInput.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\bin\Debug\net8.0\UserInput.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\bin\Debug\net8.0\UserInput.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\bin\Debug\net8.0\UserInput.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\bin\Debug\net8.0\UserInput.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\UserInput.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\UserInput.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\UserInput.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\refint\UserInput.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\UserInput.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\UserInput.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\UserInput\obj\Debug\net8.0\ref\UserInput.dll

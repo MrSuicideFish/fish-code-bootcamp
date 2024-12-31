@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\bin\Debug\net8.0\PlayerQuery.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\bin\Debug\net8.0\PlayerQuery.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\bin\Debug\net8.0\PlayerQuery.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\bin\Debug\net8.0\PlayerQuery.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\bin\Debug\net8.0\PlayerQuery.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\PlayerQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\PlayerQuery.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\PlayerQuery.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\PlayerQuery.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\PlayerQuery.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\PlayerQuery.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\refint\PlayerQuery.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\PlayerQuery.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\PlayerQuery.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerQuery\obj\Debug\net8.0\ref\PlayerQuery.dll

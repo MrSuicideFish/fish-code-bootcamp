@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\PlayerManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\PlayerManagement.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\PlayerManagement.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\PlayerManagement.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\PlayerManagement.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\bin\Debug\net8.0\PlayerManagement.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\bin\Debug\net8.0\PlayerManagement.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\bin\Debug\net8.0\PlayerManagement.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\bin\Debug\net8.0\PlayerManagement.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\bin\Debug\net8.0\PlayerManagement.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\PlayerManagement.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\refint\PlayerManagement.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\PlayerManagement.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\PlayerManagement.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerManagement\obj\Debug\net8.0\ref\PlayerManagement.dll

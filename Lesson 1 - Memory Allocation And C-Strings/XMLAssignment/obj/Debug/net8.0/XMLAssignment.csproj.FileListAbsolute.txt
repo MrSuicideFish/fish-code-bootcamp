@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\bin\Debug\net8.0\XMLAssignment.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\bin\Debug\net8.0\XMLAssignment.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\bin\Debug\net8.0\XMLAssignment.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\bin\Debug\net8.0\XMLAssignment.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\bin\Debug\net8.0\XMLAssignment.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\XMLAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\XMLAssignment.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\XMLAssignment.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\XMLAssignment.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\XMLAssignment.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\XMLAssignment.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\refint\XMLAssignment.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\XMLAssignment.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\XMLAssignment.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\XMLAssignment\obj\Debug\net8.0\ref\XMLAssignment.dll

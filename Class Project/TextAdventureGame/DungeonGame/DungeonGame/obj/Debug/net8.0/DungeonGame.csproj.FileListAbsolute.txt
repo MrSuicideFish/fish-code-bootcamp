@@ -1,0 +1,17 @@
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\bin\Debug\net8.0\DungeonGame.exe
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\bin\Debug\net8.0\DungeonGame.deps.json
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\bin\Debug\net8.0\DungeonGame.runtimeconfig.json
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\bin\Debug\net8.0\DungeonGame.dll
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\bin\Debug\net8.0\DungeonGame.pdb
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\DungeonGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\DungeonGame.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\DungeonGame.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\DungeonGame.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\DungeonGame.sourcelink.json
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\DungeonGame.dll
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\refint\DungeonGame.dll
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\DungeonGame.pdb
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\DungeonGame.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\obj\Debug\net8.0\ref\DungeonGame.dll
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\bin\Debug\net8.0\Maps\TestMap.txt
+D:\FishCodeCamp\lessons\Class Project\MathPractice\DungeonGame\DungeonGame\bin\Debug\net8.0\Maps\EnemyRoom.txt

@@ -39,7 +39,6 @@ int main( )
     // allocate some memory
     char cstyle[] = "C-Style String";
     char* intro = (char*)malloc(sizeof(char)*30);
-    Map* intro = (Map*)malloc(sizeof(Map)*30);
 
     // doesn't work
     //intro = "Hello, World!";
@@ -49,6 +48,9 @@ int main( )
     strcpy_s(intro, strlen(source)+1, source);
 
     cout << intro << endl;
+
+    // garbage collection
     free(intro);
+
     return 0;
 }

@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\bin\Debug\net8.0\Program_WriteStrings.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\bin\Debug\net8.0\Program_WriteStrings.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\bin\Debug\net8.0\Program_WriteStrings.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\bin\Debug\net8.0\Program_WriteStrings.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\bin\Debug\net8.0\Program_WriteStrings.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\Program_WriteStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\Program_WriteStrings.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\Program_WriteStrings.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\Program_WriteStrings.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\Program_WriteStrings.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\Program_WriteStrings.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\refint\Program_WriteStrings.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\Program_WriteStrings.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\Program_WriteStrings.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Program_WriteStrings\obj\Debug\net8.0\ref\Program_WriteStrings.dll

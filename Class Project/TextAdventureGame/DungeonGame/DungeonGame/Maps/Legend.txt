@@ -1,0 +1,6 @@
+﻿Legend:
+* - wall
+p - player
+e - enemy
+i - item
+t - entity

@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\bin\Debug\net8.0\AddUsernameTest.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\bin\Debug\net8.0\AddUsernameTest.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\bin\Debug\net8.0\AddUsernameTest.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\bin\Debug\net8.0\AddUsernameTest.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\bin\Debug\net8.0\AddUsernameTest.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\AddUsernameTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\AddUsernameTest.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\AddUsernameTest.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\AddUsernameTest.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\AddUsernameTest.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\AddUsernameTest.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\refint\AddUsernameTest.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\AddUsernameTest.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\AddUsernameTest.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\AddUsernameTest\obj\Debug\net8.0\ref\AddUsernameTest.dll

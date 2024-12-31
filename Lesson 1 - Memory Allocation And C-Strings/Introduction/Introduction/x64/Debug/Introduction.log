@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Introduction\main.cpp(27,14): error C2371: 'Map::foo': redefinition; different basic types
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Introduction\main.cpp(28,15): error C2371: 'Map::foo': redefinition; different basic types
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Introduction\main.cpp(31,16): error C2040: 'Map::foo': 'float *' differs in levels of indirection from 'int'
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Introduction\main.cpp(32,14): error C2040: 'Map::foo': 'int *' differs in levels of indirection from 'int'
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Introduction\main.cpp(33,15): error C2040: 'Map::foo': 'char *' differs in levels of indirection from 'int'

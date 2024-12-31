@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\bin\Debug\net8.0\Primitives.exe
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\bin\Debug\net8.0\Primitives.deps.json
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\bin\Debug\net8.0\Primitives.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\bin\Debug\net8.0\Primitives.dll
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\bin\Debug\net8.0\Primitives.pdb
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\Primitives.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\Primitives.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\Primitives.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\Primitives.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\Primitives.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\Primitives.dll
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\refint\Primitives.dll
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\Primitives.pdb
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\Primitives.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 2 - Primitives And Functions\Primitives\obj\Debug\net8.0\ref\Primitives.dll

@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\PlayerInheiritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\PlayerInheiritance.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\PlayerInheiritance.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\PlayerInheiritance.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\PlayerInheiritance.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\bin\Debug\net8.0\PlayerInheiritance.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\bin\Debug\net8.0\PlayerInheiritance.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\bin\Debug\net8.0\PlayerInheiritance.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\bin\Debug\net8.0\PlayerInheiritance.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\bin\Debug\net8.0\PlayerInheiritance.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\PlayerInheiritance.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\refint\PlayerInheiritance.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\PlayerInheiritance.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\PlayerInheiritance.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\PlayerInheiritance\obj\Debug\net8.0\ref\PlayerInheiritance.dll

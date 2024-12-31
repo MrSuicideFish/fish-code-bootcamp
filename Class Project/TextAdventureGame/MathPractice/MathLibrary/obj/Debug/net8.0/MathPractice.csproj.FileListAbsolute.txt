@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\bin\Debug\net8.0\MathPractice.exe
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\bin\Debug\net8.0\MathPractice.deps.json
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\bin\Debug\net8.0\MathPractice.runtimeconfig.json
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\bin\Debug\net8.0\MathPractice.dll
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\bin\Debug\net8.0\MathPractice.pdb
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\MathPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\MathPractice.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\MathPractice.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\MathPractice.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\MathPractice.sourcelink.json
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\MathPractice.dll
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\refint\MathPractice.dll
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\MathPractice.pdb
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\MathPractice.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Class Project\MathPractice\MathPractice\MathPractice\obj\Debug\net8.0\ref\MathPractice.dll

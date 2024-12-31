@@ -1,0 +1,23 @@
+
+Primitive Types
+------------------
+Basic data types from which all other
+data types are constructed
+
+float
+double
+int
+bool
+char
+...*
+object (object-orient languages)
+
+-C#
+string
+byte
+
+Functions are
+[Return Type] [Name] ( [Arguments] )
+{
+    Return [Value]
+}

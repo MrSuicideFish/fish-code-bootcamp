@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\bin\Debug\net8.0\Polymorphism.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\bin\Debug\net8.0\Polymorphism.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\bin\Debug\net8.0\Polymorphism.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\bin\Debug\net8.0\Polymorphism.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\Polymorphism.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\Polymorphism.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\refint\Polymorphism.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\Polymorphism.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\Polymorphism.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Polymorphism\obj\Debug\net8.0\ref\Polymorphism.dll

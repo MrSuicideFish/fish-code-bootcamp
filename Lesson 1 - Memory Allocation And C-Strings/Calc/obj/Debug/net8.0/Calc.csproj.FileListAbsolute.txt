@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\bin\Debug\net8.0\Calc.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\bin\Debug\net8.0\Calc.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\bin\Debug\net8.0\Calc.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\bin\Debug\net8.0\Calc.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\Calc.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\Calc.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\refint\Calc.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\Calc.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Calc\obj\Debug\net8.0\ref\Calc.dll

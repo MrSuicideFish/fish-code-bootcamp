@@ -1,0 +1,15 @@
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\bin\Debug\net8.0\Inventory.exe
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\bin\Debug\net8.0\Inventory.deps.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\bin\Debug\net8.0\Inventory.runtimeconfig.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\bin\Debug\net8.0\Inventory.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\bin\Debug\net8.0\Inventory.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfoInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfo.cs
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\Inventory.csproj.CoreCompileInputs.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\Inventory.sourcelink.json
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\Inventory.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\refint\Inventory.dll
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\Inventory.pdb
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\Inventory.genruntimeconfig.cache
+D:\FishCodeCamp\lessons\Lesson 1 - Memory Allocation And C-Strings\Inventory\obj\Debug\net8.0\ref\Inventory.dll
